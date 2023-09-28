@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "questao10": "cpp"
+        "questao10": "cpp",
+        "stdio.h": "c"
     }
 }
